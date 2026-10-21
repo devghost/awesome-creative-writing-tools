@@ -22,6 +22,7 @@ Tools that support multiple creative formats in one place.
 - ⭐ [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Includes marketplace, offline PWA, 10 languages. The most complete free option for multi-format creators.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) - Popular writing app for long-form content. $49 one-time.
 - [Atticus](https://www.atticus.io/) - Write, format, and publish. $147 one-time.
+- [Pendictive](https://pendictive.com) - Writing and reading platform spanning 16 formats (novels, short stories, poetry, comics, webtoons, screenplays) plus private journaling, pen-pal letters, and habit tracking. Free to start.
 
 ## Book Writing Software
 
